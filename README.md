@@ -10,6 +10,6 @@ Steps I used to clean the Micro_Expressions dataset
 
 Dataset: [Micro_Expressions](https://www.kaggle.com/datasets/kmirfan/micro-expressions)
 
-Notebook: [micro_expression_classification](https://www.kaggle.com/code/kmirfan/micro-expression-classification)
+Notebook (kaggle): [micro_expression_classification](https://www.kaggle.com/code/kmirfan/micro-expression-classification)
 
 The trained model gives 78% accuracy on the validation set and 81.4% accuracy on the test set.
