@@ -1,4 +1,7 @@
 # MER_dataset_cleaning
+
+The dataset consists of 80x80 pixel color images of faces of children, adults, and elders collected from google images. The expressions in the dataset are; anger, disgust, fear, happiness, neutral, sadness, and surprise.
+
 Steps I used to clean the Micro_Expressions dataset
 
 - Downloaded bulk images from google image search using "[Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en)" Chrome extension
