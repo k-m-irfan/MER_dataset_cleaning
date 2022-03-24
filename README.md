@@ -2,6 +2,8 @@
 
 The dataset consists of 80x80 pixel color images of faces of children, adults, and elders collected from google images. The expressions in the dataset are; anger, disgust, fear, happiness, neutral, sadness, and surprise.
 
+The trained model gives 78% accuracy on the validation set and 81.4% accuracy on the test set.
+
 Steps I used to clean the Micro_Expressions dataset
 
 - Downloaded bulk images from google image search using "[Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en)" Chrome extension
@@ -14,5 +16,3 @@ Steps I used to clean the Micro_Expressions dataset
 Dataset: [Micro_Expressions](https://www.kaggle.com/datasets/kmirfan/micro-expressions)
 
 Notebook (kaggle): [micro_expression_classification](https://www.kaggle.com/code/kmirfan/micro-expression-classification)
-
-The trained model gives 78% accuracy on the validation set and 81.4% accuracy on the test set.
