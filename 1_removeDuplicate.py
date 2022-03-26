@@ -23,12 +23,3 @@ for sourceName in sFiles:
         if duplicates == 0: # only copy if there is no duplicate file in the target folder
             shutil.copy(sourceFile, targetDir)
         duplicates = 0
-
-
-
-
-
-
-
-
-        
