@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k-m-irfan/MER_dataset_cleaning.visitor-badge)
+
 # MER_dataset_cleaning
 
 This dataset consists of 80x80 pixel color images of faces of children, adults, and elders collected from google images. The expressions in the dataset are; anger, disgust, fear, happiness, neutral, sadness, and surprise.
